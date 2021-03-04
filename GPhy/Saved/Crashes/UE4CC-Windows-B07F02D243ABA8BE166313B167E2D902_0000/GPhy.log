@@ -1,0 +1,1072 @@
+﻿Log file open, 03/04/21 21:38:11
+LogInit: Display: Running engine for game: GPhy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.928172
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/Game Library/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.04-13.38.11:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.04-13.38.11:901][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.04-13.38.11:902][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.04-13.38.11:902][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.04-13.38.11:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.04-13.38.11:902][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.04-13.38.11:905][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.04-13.38.11:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.04-13.38.11:906][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.04-13.38.11:907][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.04-13.38.11:908][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.04-13.38.11:909][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.04-13.38.11:909][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.04-13.38.11:909][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.04-13.38.11:909][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.04-13.38.11:909][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.04-13.38.11:909][  0]LogHAL: Display: Platform has ~ 16 GB [17059098624 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.04-13.38.11:909][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.04-13.38.11:909][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:909][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.04-13.38.11:909][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.04-13.38.11:909][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.04-13.38.11:910][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.04-13.38.11:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.04-13.38.11:912][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.04-13.38.11:913][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.04-13.38.11:913][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.04-13.38.11:913][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.04-13.38.11:913][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.04-13.38.11:913][  0]LogInit: Computer: DESKTOP-46AHMHB
+[2021.03.04-13.38.11:913][  0]LogInit: User: User
+[2021.03.04-13.38.11:913][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.04-13.38.11:913][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.04-13.38.11:913][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.04-13.38.11:913][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.04-13.38.11:913][  0]LogMemory: Process Physical Memory: 115.92 MB used, 115.93 MB peak
+[2021.03.04-13.38.11:913][  0]LogMemory: Process Virtual Memory: 100.45 MB used, 100.45 MB peak
+[2021.03.04-13.38.11:914][  0]LogMemory: Physical Memory: 8899.45 MB used,  7369.37 MB free, 16268.82 MB total
+[2021.03.04-13.38.11:914][  0]LogMemory: Virtual Memory: 5114.57 MB used,  134212616.00 MB free, 134217728.00 MB total
+[2021.03.04-13.38.11:924][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.04-13.38.12:055][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.04-13.38.12:060][  0]LogInit: Using OS detected language (en-US).
+[2021.03.04-13.38.12:060][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.04-13.38.12:067][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.04-13.38.12:331][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.04-13.38.12:407][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.04-13.38.12:407][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.04-13.38.12:859][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.04-13.38.12:859][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.04-13.38.12:859][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.04-13.38.12:859][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.04-13.38.13:001][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.03.04-13.38.13:001][  0]LogD3D11RHI:       4021/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.04-13.38.13:040][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.03.04-13.38.13:040][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.03.04-13.38.13:045][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.04-13.38.13:045][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.04-13.38.13:045][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.04-13.38.13:055][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.04-13.38.13:055][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.03.04-13.38.13:055][  0]LogWindows: EnumDisplayDevices:
+[2021.03.04-13.38.13:055][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.03.04-13.38.13:056][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.03.04-13.38.13:056][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.03.04-13.38.13:057][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.03.04-13.38.13:057][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.03.04-13.38.13:057][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.03.04-13.38.13:057][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.03.04-13.38.13:057][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2021.03.04-13.38.13:161][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.04-13.38.13:161][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.04-13.38.13:161][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.04-13.38.13:181][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.04-13.38.13:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.04-13.38.13:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.04-13.38.13:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.04-13.38.13:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.04-13.38.13:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.04-13.38.13:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.04-13.38.13:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.04-13.38.13:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.04-13.38.13:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.04-13.38.13:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.04-13.38.13:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.04-13.38.13:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.04-13.38.13:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.04-13.38.13:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.04-13.38.13:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.04-13.38.13:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.04-13.38.13:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.04-13.38.13:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.04-13.38.13:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.04-13.38.13:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.04-13.38.13:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.04-13.38.13:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.04-13.38.13:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.04-13.38.13:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.04-13.38.13:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.04-13.38.13:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.04-13.38.13:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.04-13.38.13:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.04-13.38.13:965][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.04-13.38.13:977][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.04-13.38.14:085][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../../GitHub/GPhy/GPhy/Intermediate/Shaders/WorkingDirectory/9244/).
+[2021.03.04-13.38.14:085][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/WindowsData/Temp/Temp/UnrealShaderWorkingDir/E0FE1BD84A9EBA65A4C9C9AED8D3FE37/'.
+[2021.03.04-13.38.14:086][  0]LogXGEController: Cleaning working directory: D:/WindowsData/Temp/Temp/UnrealXGEWorkingDir/
+[2021.03.04-13.38.14:087][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.04-13.38.14:087][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.04-13.38.14:087][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.04-13.38.15:265][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.04-13.38.15:364][  0]LogDerivedDataCache: Loaded boot cache 0.10s 75MB C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.04-13.38.15:364][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.04-13.38.15:365][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/GPhy/GPhy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.04-13.38.15:365][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.04-13.38.15:365][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/GPhy/GPhy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.04-13.38.15:365][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.04-13.38.15:383][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.04-13.38.15:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.04-13.38.15:383][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.04-13.38.15:385][  0]LogDerivedDataCache: Using Local data cache path D:/Documents/Unreal Projects/LocalCacheDerived: Writable
+[2021.03.04-13.38.15:385][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.04-13.38.15:385][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.04-13.38.15:464][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.04-13.38.15:465][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.04-13.38.15:514][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2021.03.04-13.38.15:897][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.04-13.38.16:072][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.04-13.38.16:072][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.04-13.38.16:072][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.04-13.38.16:072][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.04-13.38.16:072][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.04-13.38.16:108][  0]LogNetVersion: GPhy 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3282965601)
+[2021.03.04-13.38.16:865][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001804AE26AC0), frame # 0
+[2021.03.04-13.38.16:865][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001804ADA3EC0), frame # 0
+[2021.03.04-13.38.16:867][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001804AE11E00), frame # 0
+[2021.03.04-13.38.16:930][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.052410 seconds
+[2021.03.04-13.38.16:936][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.03.04-13.38.16:937][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.03.04-13.38.16:937][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.04-13.38.17:559][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.04-13.38.17:566][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.04-13.38.17:723][  0]SourceControl: Source control is disabled
+[2021.03.04-13.38.17:723][  0]SourceControl: Source control is disabled
+[2021.03.04-13.38.17:731][  0]SourceControl: Source control is disabled
+[2021.03.04-13.38.17:735][  0]SourceControl: Source control is disabled
+[2021.03.04-13.38.17:750][  0]SourceControl: Source control is disabled
+[2021.03.04-13.38.18:167][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.04-13.38.18:217][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.04-13.38.18:217][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.04-13.38.18:311][  0]LogOcInput: OculusInput pre-init called
+[2021.03.04-13.38.18:332][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.04-13.38.18:332][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.04-13.38.18:440][  0]LogEngine: Initializing Engine...
+[2021.03.04-13.38.18:444][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.04-13.38.18:444][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.04-13.38.18:446][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.04-13.38.18:736][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.04-13.38.18:761][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.04-13.38.18:761][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018052293C00), frame # 0
+[2021.03.04-13.38.18:762][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018052355580), frame # 0
+[2021.03.04-13.38.18:788][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.04-13.38.18:788][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.04-13.38.18:788][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.04-13.38.18:788][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.04-13.38.18:788][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.04-13.38.18:788][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.04-13.38.18:788][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.04-13.38.18:788][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.04-13.38.18:789][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.04-13.38.18:789][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.04-13.38.18:838][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.04-13.38.18:839][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.04-13.38.18:953][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.04-13.38.18:958][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.04-13.38.18:968][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.04-13.38.18:968][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.04-13.38.18:970][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.04-13.38.18:971][  0]LogInit: FAudioDevice initialized.
+[2021.03.04-13.38.18:972][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.04-13.38.19:261][  0]LogDerivedDataCache: Saved boot cache 0.29s 75MB C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.04-13.38.19:262][  0]LogInit: Texture streaming: Enabled
+[2021.03.04-13.38.19:291][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.04-13.38.19:291][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.04-13.38.19:304][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.04-13.38.19:358][  0]LogInit: Transaction tracking system initialized
+[2021.03.04-13.38.19:400][  0]BlueprintLog: New page: Editor Load
+[2021.03.04-13.38.19:535][  0]LocalizationService: Localization service is disabled
+[2021.03.04-13.38.19:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.04-13.38.19:814][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.04-13.38.20:025][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GPhy/GPhy/Content/' took 0.03s
+[2021.03.04-13.38.20:412][  0]SourceControl: Source control is disabled
+[2021.03.04-13.38.20:412][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.493
+[2021.03.04-13.38.20:413][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/GPhy/GPhy/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.04-13.38.20:413][  0]LightingResults: New page: Lighting Build
+[2021.03.04-13.38.20:415][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.04-13.38.20:415][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.04-13.38.20:415][  0]MapCheck: New page: Map Check
+[2021.03.04-13.38.20:415][  0]LightingResults: New page: Lighting Build
+[2021.03.04-13.38.20:428][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018052293C00), frame # 0
+[2021.03.04-13.38.20:428][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018052355580), frame # 0
+[2021.03.04-13.38.20:429][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.03.04-13.38.21:226][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.04-13.38.21:226][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001805A21FE00), frame # 0
+[2021.03.04-13.38.21:226][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001805A301580), frame # 0
+[2021.03.04-13.38.21:239][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.04-13.38.21:255][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.03.04-13.38.21:256][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.04-13.38.21:256][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2021.03.04-13.38.21:256][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.844
+[2021.03.04-13.38.21:258][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.339
+[2021.03.04-13.38.21:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.04-13.38.21:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.04-13.38.21:445][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.04-13.38.21:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.04-13.38.21:471][  0]LogCollectionManager: Loaded 0 collections in 0.002969 seconds
+[2021.03.04-13.38.21:508][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GPhy/GPhy/Saved/Collections/' took 0.00s
+[2021.03.04-13.38.21:508][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GPhy/GPhy/Content/Developers/User/Collections/' took 0.01s
+[2021.03.04-13.38.21:508][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GPhy/GPhy/Content/Collections/' took 0.01s
+[2021.03.04-13.38.21:508][  0]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 3427 classes and 821 folders.
+[2021.03.04-13.38.21:521][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.04-13.38.21:757][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.04-13.38.21:956][  0]LogSlate: Took 0.000516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.04-13.38.21:966][  0]LogSlate: Took 0.001226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.04-13.38.21:968][  0]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.04-13.38.22:081][  0]LogRenderer: Reallocating scene render targets to support 868x460 Format 10 NumSamples 1 (Frame:1).
+[2021.03.04-13.38.22:233][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.03.04-13.38.22:233][  0]LogLoad: (Engine Initialization) Total time: 16.31 seconds
+[2021.03.04-13.38.22:233][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.04-13.38.22:299][  0]LogAssetRegistry: Asset discovery search completed in 6.7863 seconds
+[2021.03.04-13.38.22:304][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.04-13.38.22:306][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.04-13.38.22:343][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.04-13.38.31:282][212]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.04-13.38.31:927][212]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level0.Level0
+[2021.03.04-13.38.31:947][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.03.04-13.38.31:950][212]Cmd: MAP LOAD FILE="../../../../../../GitHub/GPhy/GPhy/Content/Levels/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.04-13.38.31:950][212]LightingResults: New page: Lighting Build
+[2021.03.04-13.38.31:951][212]LoadErrors: New page: Loading map: Level0.umap
+[2021.03.04-13.38.31:988][212]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.04-13.38.31:988][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.04-13.38.31:988][212]MapCheck: New page: Map Check
+[2021.03.04-13.38.31:988][212]LightingResults: New page: Lighting Build
+[2021.03.04-13.38.32:004][212]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001805A21FE00), frame # 212
+[2021.03.04-13.38.32:004][212]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001805A301580), frame # 212
+[2021.03.04-13.38.32:005][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.03.04-13.38.34:098][212]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.04-13.38.34:098][212]LogAIModule: Creating AISystem for world Level0
+[2021.03.04-13.38.34:098][212]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018000976200), frame # 212
+[2021.03.04-13.38.34:099][212]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001807623E5C0), frame # 212
+[2021.03.04-13.38.34:118][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.04-13.38.34:147][212]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.04-13.38.34:159][212]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 12.275ms to complete.
+[2021.03.04-13.38.34:159][212]LogFileHelpers: Loading map 'Level0' took 2.209
+[2021.03.04-13.39.31:307][  9]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.04-13.39.35:311][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Portal.Portal
+[2021.03.04-13.39.35:632][237]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.03.04-13.39.38:817][325]LogRenderer: Reallocating scene render targets to support 868x568 Format 10 NumSamples 1 (Frame:83).
+[2021.03.04-13.39.38:966][333]LogSlate: Window 'Portal' being destroyed
+[2021.03.04-13.39.38:975][334]LogRenderer: Reallocating scene render targets to support 1088x572 Format 10 NumSamples 1 (Frame:2995).
+[2021.03.04-13.39.46:348][751]LogSlate: Took 0.001368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.04-13.41.32:889][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Portal" FILE="../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset" SILENT=true
+[2021.03.04-13.41.32:900][754]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/Portal2CE5BEDC43FBC68C530071A7C9D87DAA.tmp' to '../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset'
+[2021.03.04-13.41.32:926][754]AssetCheck: New page: Asset Save: Portal
+[2021.03.04-13.41.32:926][754]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Portal.Portal
+[2021.03.04-13.41.33:643][795]BlueprintLog: New page: Compile Portal
+[2021.03.04-13.41.33:723][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.03.04-13.41.33:760][795]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.04-13.42.03:479][507]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.04-13.42.03:479][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.04-13.45.15:586][530]LogActorFactory: Actor Factory created Shape_Torus
+[2021.03.04-13.45.22:935][967]LogActorFactory: Actor Factory created Shape_Torus
+[2021.03.04-13.45.24:974][ 68]Cmd: DELETE
+[2021.03.04-13.45.24:975][ 68]Cmd: ACTOR DELETE
+[2021.03.04-13.45.24:985][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.04-13.45.25:049][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.03.04-13.45.25:060][ 68]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2021.03.04-13.45.25:557][ 97]LogEditorViewport: Clicking on Actor (LMB): Portal_C (Portal)
+[2021.03.04-13.45.28:087][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Portal.Portal
+[2021.03.04-13.45.28:726][237]LogSlate: Took 0.000521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.04-13.45.58:861][942]LogEditorTransaction: Undo Make New Scene Root
+[2021.03.04-13.45.59:668][973]LogEditorTransaction: Undo Add Component
+[2021.03.04-13.46.36:228][ 29]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.04-13.53.55:820][513]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.04-13.54.26:525][332]BlueprintLog: New page: Compile Portal
+[2021.03.04-13.54.26:707][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.03.04-13.55.26:494][720]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.26:495][720]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.26:495][720]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.26:513][721]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.26:529][722]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:802][978]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:802][978]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:803][978]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:819][979]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:837][980]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:852][981]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:869][982]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:886][983]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.30:903][984]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:502][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:504][ 20]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:504][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:519][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:536][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:552][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:569][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:585][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:603][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:619][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:636][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:652][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:669][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:686][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:703][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:719][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:736][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:752][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:769][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:785][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:802][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:818][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:835][ 40]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:851][ 41]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:868][ 42]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:885][ 43]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:902][ 44]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:918][ 45]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:935][ 46]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:952][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:968][ 48]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.31:985][ 49]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:002][ 50]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:019][ 51]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:036][ 52]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:053][ 53]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:069][ 54]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:086][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:103][ 56]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:119][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:136][ 58]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:152][ 59]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:168][ 60]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:185][ 61]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:202][ 62]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:218][ 63]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:236][ 64]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:252][ 65]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:268][ 66]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:285][ 67]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:302][ 68]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:318][ 69]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:335][ 70]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:352][ 71]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:369][ 72]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:385][ 73]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:402][ 74]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:419][ 75]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:436][ 76]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:452][ 77]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:469][ 78]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:486][ 79]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:503][ 80]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:519][ 81]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:535][ 82]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:551][ 83]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:568][ 84]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:585][ 85]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:602][ 86]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:618][ 87]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:635][ 88]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:652][ 89]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:668][ 90]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:685][ 91]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:702][ 92]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:718][ 93]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:735][ 94]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:752][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:768][ 96]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:785][ 97]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.32:802][ 98]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.43:071][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Portal" FILE="../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset" SILENT=true
+[2021.03.04-13.55.43:092][705]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/Portal04621B2647CCC3A85AB61B9B4D2ACC14.tmp' to '../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset'
+[2021.03.04-13.55.43:118][705]AssetCheck: New page: Asset Save: Portal
+[2021.03.04-13.55.43:118][705]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Portal.Portal
+[2021.03.04-13.55.46:490][898]BlueprintLog: New page: Compile Portal
+[2021.03.04-13.55.46:498][898]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:507][898]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:593][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.03.04-13.55.46:600][898]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:600][898]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:601][898]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:601][898]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:605][898]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:605][898]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:606][898]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:606][898]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:624][898]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.46:625][898]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.57:405][514]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.57:406][514]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.55.57:407][514]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.56.00:373][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Wall_Straight5)
+[2021.03.04-13.56.01:555][754]LogEditorViewport: Clicking on Actor (LMB): Portal_C (Portal)
+[2021.03.04-13.56.04:019][898]LogEditorViewport: Clicking on Actor (LMB): LightSensor_C (LightSensor)
+[2021.03.04-13.56.06:690][ 47]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/LightSensor.LightSensor
+[2021.03.04-13.56.36:104][598]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.03.04-13.56.36:109][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level0" FILE="../../../../../../GitHub/GPhy/GPhy/Saved/Autosaves/Game/Levels/Level0_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.04-13.56.36:196][598]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/Level0_Auto1B03C712049BAF9376989808E31A18245.tmp' to '../../../../../../GitHub/GPhy/GPhy/Saved/Autosaves/Game/Levels/Level0_Auto1.umap'
+[2021.03.04-13.56.36:199][598]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level0' took 0.133
+[2021.03.04-13.56.36:199][598]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2021.03.04-13.57.20:080][995]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.04-13.57.53:780][792]LogEditorTransaction: Undo Move Node
+[2021.03.04-13.57.54:219][804]LogEditorTransaction: Undo Delete current selection
+[2021.03.04-13.57.54:662][825]LogEditorTransaction: Undo Move Node
+[2021.03.04-13.57.55:129][849]LogEditorTransaction: Undo Change Class Pin Value
+[2021.03.04-13.57.55:520][869]LogEditorTransaction: Undo Move Node
+[2021.03.04-13.57.55:962][892]LogEditorTransaction: Undo Move Node
+[2021.03.04-13.57.56:421][918]LogEditorTransaction: Undo Move Node
+[2021.03.04-13.57.56:868][943]LogEditorTransaction: Undo Add Node
+[2021.03.04-13.57.57:329][968]LogEditorTransaction: Undo Change Number Pin Value
+[2021.03.04-13.57.57:912][999]LogEditorTransaction: Undo Delete current selection
+[2021.03.04-13.57.58:395][ 24]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.04-13.59.00:094][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/wall_BP.wall_BP
+[2021.03.04-13.59.09:532][628]LogSlate: Window 'wall_BP' being destroyed
+[2021.03.04-13.59.37:163][246]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.59.37:164][246]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.59.37:166][246]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-13.59.37:166][246]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:887][ 37]BlueprintLog: New page: Compile Portal
+[2021.03.04-14.00.13:898][ 37]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:910][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:959][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.03.04-14.00.13:963][ 37]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:964][ 37]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:965][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:966][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:971][ 37]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:972][ 37]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:973][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.13:973][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.14:335][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Portal" FILE="../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset" SILENT=true
+[2021.03.04-14.00.14:356][ 52]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/PortalE162B45F4D716EB050E76EA08E5B7608.tmp' to '../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset'
+[2021.03.04-14.00.14:377][ 52]AssetCheck: New page: Asset Save: Portal
+[2021.03.04-14.00.14:378][ 52]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Portal.Portal
+[2021.03.04-14.00.24:238][605]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.24:239][605]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.24:240][605]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.24:242][605]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.24:251][605]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.24:252][605]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.24:253][605]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.24:253][605]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.26:887][754]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.26:888][754]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.26:889][754]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.26:889][754]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.26:898][754]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.26:900][754]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.26:901][754]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.26:902][754]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.31:472][ 19]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.31:473][ 19]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.31:474][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.31:475][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.31:487][ 19]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.31:488][ 19]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.31:488][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.31:489][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.40:350][518]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.40:353][518]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.40:353][518]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.40:354][518]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.47:932][948]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.47:933][948]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.47:933][948]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.00.47:934][948]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:813][105]BlueprintLog: New page: Compile Portal
+[2021.03.04-14.01.08:825][105]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:832][105]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:887][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.03.04-14.01.08:889][105]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:890][105]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:890][105]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:891][105]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:896][105]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:897][105]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:897][105]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.08:898][105]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.01.09:605][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Portal" FILE="../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset" SILENT=true
+[2021.03.04-14.01.09:627][139]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/Portal51EEFDCA42CFEE09B28D59B6766A3A8C.tmp' to '../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset'
+[2021.03.04-14.01.09:661][139]AssetCheck: New page: Asset Save: Portal
+[2021.03.04-14.01.09:661][139]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Portal.Portal
+[2021.03.04-14.02.28:216][236]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.04-14.03.48:789][320]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.03.04-14.06.36:662][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.03.04-14.06.36:666][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level0" FILE="../../../../../../GitHub/GPhy/GPhy/Saved/Autosaves/Game/Levels/Level0_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.04-14.06.36:741][283]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/Level0_Auto2AF95F80945F9D64347C912858985A036.tmp' to '../../../../../../GitHub/GPhy/GPhy/Saved/Autosaves/Game/Levels/Level0_Auto2.umap'
+[2021.03.04-14.06.36:745][283]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level0' took 0.120
+[2021.03.04-14.06.36:745][283]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.120
+[2021.03.04-14.06.36:747][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/LightSensor] ([1] browsable assets)...
+[2021.03.04-14.06.36:758][283]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/LightSensor.LightSensor]
+[2021.03.04-14.06.36:758][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/LightSensor]
+[2021.03.04-14.06.36:758][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/LightSensor" FILE="../../../../../../GitHub/GPhy/GPhy/Saved/Autosaves/Game/Blueprint/LightSensor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.03.04-14.06.36:781][283]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/LightSensor_Auto26441506A44EF45353EF9B8BA9E493E2B.tmp' to '../../../../../../GitHub/GPhy/GPhy/Saved/Autosaves/Game/Blueprint/LightSensor_Auto2.uasset'
+[2021.03.04-14.06.36:783][283]LogFileHelpers: Auto-saving content packages took 0.037
+[2021.03.04-14.09.44:273][953]BlueprintLog: New page: Compile LightSensor
+[2021.03.04-14.09.44:346][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.03.04-14.10.08:290][269]BlueprintLog: New page: Compile LightSensor
+[2021.03.04-14.10.08:357][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.03.04-14.10.08:840][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/LightSensor" FILE="../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/LightSensor.uasset" SILENT=true
+[2021.03.04-14.10.08:864][290]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/LightSensorA4C809B145C6F9845BDDBFB0DBF38135.tmp' to '../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/LightSensor.uasset'
+[2021.03.04-14.10.08:897][290]AssetCheck: New page: Asset Save: LightSensor
+[2021.03.04-14.10.08:897][290]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/LightSensor.LightSensor
+[2021.03.04-14.10.32:799][656]BlueprintLog: New page: Compile Portal
+[2021.03.04-14.10.32:818][656]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:824][656]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:876][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.03.04-14.10.32:884][656]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:884][656]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:885][656]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:885][656]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:897][656]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:897][656]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:898][656]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.32:899][656]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.10.44:766][254]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.04-14.11.09:658][485]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/WBP_Level_Complete.WBP_Level_Complete
+[2021.03.04-14.11.21:442][ 95]BlueprintLog: New page: Compile Portal
+[2021.03.04-14.11.21:460][ 95]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:468][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:557][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.03.04-14.11.21:565][ 95]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:566][ 95]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:566][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:567][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:581][ 95]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:582][ 95]LogPhysics: Warning: Scale for /Game/Levels/Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:582][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.21:583][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.Portal_C_0.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.22:571][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Portal" FILE="../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset" SILENT=true
+[2021.03.04-14.11.22:595][143]LogSavePackage: Moving '../../../../../../GitHub/GPhy/GPhy/Saved/Portal203F8583422F2251D4C9F7B6E9405E4C.tmp' to '../../../../../../GitHub/GPhy/GPhy/Content/Blueprint/Portal.uasset'
+[2021.03.04-14.11.22:629][143]AssetCheck: New page: Asset Save: Portal
+[2021.03.04-14.11.22:629][143]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Portal.Portal
+[2021.03.04-14.11.25:722][314]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.04-14.11.25:750][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.04-14.11.25:750][314]PIE: New page: PIE session: Level0 (Mar 5, 2021, 6:11:25 AM)
+[2021.03.04-14.11.25:751][314]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.04-14.11.25:752][314]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.04-14.11.25:752][314]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level0
+[2021.03.04-14.11.25:766][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013642s)
+[2021.03.04-14.11.25:767][314]LogAIModule: Creating AISystem for world Level0
+[2021.03.04-14.11.25:767][314]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000181020B9800), frame # 95314
+[2021.03.04-14.11.25:767][314]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000180892E6D40), frame # 95314
+[2021.03.04-14.11.25:768][314]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2021.03.04-14.11.25:768][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level0.Level0 to /Game/Levels/UEDPIE_0_Level0.Level0 (0.015113s)
+[2021.03.04-14.11.25:805][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.03.04-14.11.25:807][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.04-14.11.25:807][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.04-14.11.25:807][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.04-14.11.25:808][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.04-14.11.25:808][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.04-14.11.25:808][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.04-14.11.25:808][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.04-14.11.25:808][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.04-14.11.25:809][314]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.04-14.11.25:809][314]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.04-14.11.25:819][314]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.04-14.11.25:819][314]LogAudioMixer: Display: 1: FrontRight
+[2021.03.04-14.11.25:869][314]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.04-14.11.25:869][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.04-14.11.25:869][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.04-14.11.25:870][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.04-14.11.25:870][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.04-14.11.25:885][314]LogInit: FAudioDevice initialized.
+[2021.03.04-14.11.25:895][314]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2021.03.04-14.11.25:900][314]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level0.Level0:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.04-14.11.25:901][314]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.03.04-22.11.25
+[2021.03.04-14.11.27:790][314]LogWorld: Bringing up level for play took: 1.893316
+[2021.03.04-14.11.27:791][314]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.03.04-14.11.27:809][314]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2021.03.04-14.11.27:888][314]PIE: Server logged in
+[2021.03.04-14.11.27:891][314]PIE: Play in editor total start time 2.147 seconds.
+[2021.03.04-14.11.34:845][691]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+WBP_Level_Complete_C.ExecuteUbergraph_WBP_Level_Complete
+WBP_Level_Complete_C.Construct
+Portal_C.ExecuteUbergraph_Portal
+Portal_C.ReceiveActorBeginOverlap
+
+[2021.03.04-14.11.36:054][691]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.210 s
+[2021.03.04-14.11.36:054][691]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.04-14.11.36:054][691]LogOutputDevice: Error: 
+[2021.03.04-14.11.36:054][691]LogOutputDevice: Error: Ensure condition failed: CursorWidget [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/GameViewportClient.cpp] [Line: 922]
+[2021.03.04-14.11.36:054][691]LogOutputDevice: Error: 
+[2021.03.04-14.11.36:054][691]LogOutputDevice: Error: Stack: 
+[2021.03.04-14.11.36:054][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6c9fd439 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b7f7a75 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6be55e09 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6c6288f4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92390b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa925e00ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa926030e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa9260571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa925d3bba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92605362 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa9260571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92604c24 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92390b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92604753 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa817ef1fe UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa818561b1 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa8178bb05 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa81896ba0 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92390b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa925e00ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa926030e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa9260571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa925d3bba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92605362 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa9260571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92604c24 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92390b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa92604753 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b15afe5 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6c3e0b09 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b53753a UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b5797e3 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b579951 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b59a9ed UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b586798 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b4f922e UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b51e273 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b4b9346 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b4e01c4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6c1f936f UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6c1fe3c7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa81bb87d8 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa81bb8aa3 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa81bcf027 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.04-14.11.36:055][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6c21a402 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6c21f6ca UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b9dd0bf UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6b9e7957 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ffa6500af57 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ffa658e37e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ff7206c7800 UE4Editor.exe!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ff7206dba7c UE4Editor.exe!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ff7206dbb5a UE4Editor.exe!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ff7206ee31d UE4Editor.exe!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ff7206f145a UE4Editor.exe!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ffadd347034 KERNEL32.DLL!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: [Callstack] 0x00007ffadd99d241 ntdll.dll!UnknownFunction []
+[2021.03.04-14.11.36:056][691]LogOutputDevice: Error: 
