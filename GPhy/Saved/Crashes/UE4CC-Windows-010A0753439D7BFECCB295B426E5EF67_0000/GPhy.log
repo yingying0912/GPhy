@@ -1,0 +1,1410 @@
+﻿Log file open, 03/05/21 10:00:24
+LogInit: Display: Running engine for game: GPhy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.749214
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/Game Library/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.05-02.00.25:113][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.05-02.00.25:113][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.05-02.00.25:113][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.05-02.00.25:113][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.05-02.00.25:113][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.05-02.00.25:113][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.05-02.00.25:113][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.05-02.00.25:113][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.05-02.00.25:113][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.05-02.00.25:113][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.05-02.00.25:113][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.05-02.00.25:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.05-02.00.25:114][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.05-02.00.25:118][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.05-02.00.25:118][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.05-02.00.25:119][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.05-02.00.25:120][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.05-02.00.25:120][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.05-02.00.25:120][  0]LogHAL: Display: Platform has ~ 16 GB [17059098624 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.05-02.00.25:120][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.05-02.00.25:120][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.05-02.00.25:120][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.05-02.00.25:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.05-02.00.25:122][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.05-02.00.25:123][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.05-02.00.25:124][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Scalability.ini]
+[2021.03.05-02.00.25:124][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.05-02.00.25:124][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.05-02.00.25:124][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.05-02.00.25:124][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.05-02.00.25:124][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.05-02.00.25:124][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.05-02.00.25:124][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.05-02.00.25:124][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.05-02.00.25:124][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.05-02.00.25:125][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.05-02.00.25:125][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.05-02.00.25:125][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/GPhy/GPhy/Saved/Config/Windows/Engine.ini]
+[2021.03.05-02.00.25:125][  0]LogInit: Computer: DESKTOP-46AHMHB
+[2021.03.05-02.00.25:125][  0]LogInit: User: User
+[2021.03.05-02.00.25:125][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.05-02.00.25:125][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.05-02.00.25:125][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.05-02.00.25:125][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.05-02.00.25:125][  0]LogMemory: Process Physical Memory: 116.05 MB used, 116.05 MB peak
+[2021.03.05-02.00.25:125][  0]LogMemory: Process Virtual Memory: 100.51 MB used, 100.52 MB peak
+[2021.03.05-02.00.25:125][  0]LogMemory: Physical Memory: 6864.22 MB used,  9404.61 MB free, 16268.82 MB total
+[2021.03.05-02.00.25:125][  0]LogMemory: Virtual Memory: 5114.57 MB used,  134212616.00 MB free, 134217728.00 MB total
+[2021.03.05-02.00.25:138][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.05-02.00.25:229][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.05-02.00.25:231][  0]LogInit: Using OS detected language (en-US).
+[2021.03.05-02.00.25:231][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.05-02.00.25:235][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.05-02.00.25:468][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.05-02.00.25:522][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.05-02.00.25:522][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.05-02.00.27:266][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.05-02.00.27:266][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.05-02.00.27:266][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.05-02.00.27:266][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.05-02.00.27:402][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.03.05-02.00.27:402][  0]LogD3D11RHI:       4021/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.05-02.00.27:437][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.03.05-02.00.27:437][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.03.05-02.00.27:441][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.05-02.00.27:441][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.05-02.00.27:441][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.05-02.00.27:448][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.05-02.00.27:448][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.03.05-02.00.27:448][  0]LogWindows: EnumDisplayDevices:
+[2021.03.05-02.00.27:448][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.03.05-02.00.27:449][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.03.05-02.00.27:449][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.03.05-02.00.27:449][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.03.05-02.00.27:449][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.03.05-02.00.27:449][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.03.05-02.00.27:449][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.03.05-02.00.27:449][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2021.03.05-02.00.27:553][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.05-02.00.27:554][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.05-02.00.27:554][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.05-02.00.27:571][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.05-02.00.28:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.05-02.00.28:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.05-02.00.28:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.05-02.00.28:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.05-02.00.28:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.05-02.00.28:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.05-02.00.28:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.05-02.00.28:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.05-02.00.28:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.05-02.00.28:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.05-02.00.28:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.05-02.00.28:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.05-02.00.28:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.05-02.00.28:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.05-02.00.28:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.05-02.00.28:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.05-02.00.28:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.05-02.00.28:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.05-02.00.28:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.05-02.00.28:355][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.05-02.00.28:367][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.05-02.00.28:453][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../GitHub/GPhy/GPhy/Intermediate/Shaders/WorkingDirectory/14300/).
+[2021.03.05-02.00.28:453][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/WindowsData/Temp/Temp/UnrealShaderWorkingDir/D41AD0824890E3FEC7C55982815186F7/'.
+[2021.03.05-02.00.28:454][  0]LogXGEController: Cleaning working directory: D:/WindowsData/Temp/Temp/UnrealXGEWorkingDir/
+[2021.03.05-02.00.28:454][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.05-02.00.28:454][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.05-02.00.28:454][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.05-02.00.29:408][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.05-02.00.29:469][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.05-02.00.29:469][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.05-02.00.29:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/GPhy/GPhy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.05-02.00.29:469][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.05-02.00.29:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/GPhy/GPhy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.05-02.00.29:469][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.05-02.00.29:481][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.05-02.00.29:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.05-02.00.29:481][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.05-02.00.29:483][  0]LogDerivedDataCache: Using Local data cache path D:/Documents/Unreal Projects/LocalCacheDerived: Writable
+[2021.03.05-02.00.29:483][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.05-02.00.29:483][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.05-02.00.29:540][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.05-02.00.29:542][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.05-02.00.29:580][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.03.05-02.00.29:887][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.05-02.00.30:258][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.05-02.00.30:258][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.05-02.00.30:258][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.05-02.00.30:258][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.05-02.00.30:258][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.05-02.00.30:295][  0]LogNetVersion: GPhy 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3282965601)
+[2021.03.05-02.00.31:171][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001B13F7DE6C0), frame # 0
+[2021.03.05-02.00.31:171][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B13F789E40), frame # 0
+[2021.03.05-02.00.31:172][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B13F7C9C00), frame # 0
+[2021.03.05-02.00.31:237][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.055415 seconds
+[2021.03.05-02.00.31:245][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.03.05-02.00.31:245][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.03.05-02.00.31:245][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.05-02.00.31:877][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.05-02.00.31:887][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.05-02.00.32:041][  0]SourceControl: Source control is disabled
+[2021.03.05-02.00.32:041][  0]SourceControl: Source control is disabled
+[2021.03.05-02.00.32:047][  0]SourceControl: Source control is disabled
+[2021.03.05-02.00.32:054][  0]SourceControl: Source control is disabled
+[2021.03.05-02.00.32:073][  0]SourceControl: Source control is disabled
+[2021.03.05-02.00.33:141][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.05-02.00.33:182][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.05-02.00.33:182][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.05-02.00.33:279][  0]LogOcInput: OculusInput pre-init called
+[2021.03.05-02.00.33:301][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.05-02.00.33:301][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.05-02.00.33:418][  0]LogEngine: Initializing Engine...
+[2021.03.05-02.00.33:421][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.05-02.00.33:421][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.05-02.00.33:423][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.03.05-02.00.33:629][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.05-02.00.33:639][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.05-02.00.33:639][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B1465D3C00), frame # 0
+[2021.03.05-02.00.33:639][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B146616980), frame # 0
+[2021.03.05-02.00.33:661][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.05-02.00.33:661][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.05-02.00.33:661][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.05-02.00.33:661][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.05-02.00.33:661][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.05-02.00.33:661][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.05-02.00.33:661][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.05-02.00.33:661][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.05-02.00.33:662][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.05-02.00.33:662][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.05-02.00.33:694][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.05-02.00.33:694][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.05-02.00.33:842][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.05-02.00.33:845][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.05-02.00.33:850][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.05-02.00.33:850][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.05-02.00.33:852][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.05-02.00.33:853][  0]LogInit: FAudioDevice initialized.
+[2021.03.05-02.00.33:853][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.05-02.00.34:041][  0]LogDerivedDataCache: Saved boot cache 0.19s 75MB C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.05-02.00.34:042][  0]LogInit: Texture streaming: Enabled
+[2021.03.05-02.00.34:421][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.05-02.00.34:421][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.05-02.00.34:436][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.05-02.00.34:496][  0]LogInit: Transaction tracking system initialized
+[2021.03.05-02.00.34:532][  0]BlueprintLog: New page: Editor Load
+[2021.03.05-02.00.34:693][  0]LocalizationService: Localization service is disabled
+[2021.03.05-02.00.34:909][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.05-02.00.34:909][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.05-02.00.35:089][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GPhy/GPhy/Content/' took 0.03s
+[2021.03.05-02.00.35:384][  0]SourceControl: Source control is disabled
+[2021.03.05-02.00.35:384][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.857
+[2021.03.05-02.00.35:384][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/GPhy/GPhy/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.05-02.00.35:384][  0]LightingResults: New page: Lighting Build
+[2021.03.05-02.00.35:385][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.05-02.00.35:385][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-02.00.35:385][  0]MapCheck: New page: Map Check
+[2021.03.05-02.00.35:385][  0]LightingResults: New page: Lighting Build
+[2021.03.05-02.00.35:395][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B1465D3C00), frame # 0
+[2021.03.05-02.00.35:395][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B146616980), frame # 0
+[2021.03.05-02.00.35:396][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.05-02.00.36:024][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.05-02.00.36:024][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B1383E2200), frame # 0
+[2021.03.05-02.00.36:024][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B1384ED440), frame # 0
+[2021.03.05-02.00.36:037][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.05-02.00.36:053][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.03.05-02.00.36:054][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.05-02.00.36:054][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2021.03.05-02.00.36:054][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.670
+[2021.03.05-02.00.36:056][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.528
+[2021.03.05-02.00.36:232][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-02.00.36:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-02.00.36:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-02.00.36:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-02.00.36:270][  0]LogCollectionManager: Loaded 0 collections in 0.002133 seconds
+[2021.03.05-02.00.36:288][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GPhy/GPhy/Saved/Collections/' took 0.00s
+[2021.03.05-02.00.36:288][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GPhy/GPhy/Content/Developers/User/Collections/' took 0.00s
+[2021.03.05-02.00.36:288][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GPhy/GPhy/Content/Collections/' took 0.00s
+[2021.03.05-02.00.36:288][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3427 classes and 821 folders.
+[2021.03.05-02.00.36:292][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.05-02.00.36:467][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.05-02.00.36:636][  0]LogSlate: Took 0.001269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.05-02.00.36:643][  0]LogSlate: Took 0.000570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.05-02.00.36:647][  0]LogSlate: Took 0.000596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.05-02.00.36:726][  0]LogRenderer: Reallocating scene render targets to support 928x520 Format 10 NumSamples 1 (Frame:1).
+[2021.03.05-02.00.36:914][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.03.05-02.00.36:915][  0]LogLoad: (Engine Initialization) Total time: 17.39 seconds
+[2021.03.05-02.00.36:915][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.05-02.00.36:975][  0]LogAssetRegistry: Asset discovery search completed in 7.3955 seconds
+[2021.03.05-02.00.36:981][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.05-02.00.36:983][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.05-02.00.37:024][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.05-02.01.28:983][251]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.05-02.01.29:067][251]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.05-02.01.29:077][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.03.05-02.01.29:079][251]Cmd: MAP LOAD FILE="../../../../../../GitHub/GPhy/GPhy/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.05-02.01.29:079][251]LightingResults: New page: Lighting Build
+[2021.03.05-02.01.29:079][251]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.05-02.01.29:081][251]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.05-02.01.29:081][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-02.01.29:081][251]MapCheck: New page: Map Check
+[2021.03.05-02.01.29:081][251]LightingResults: New page: Lighting Build
+[2021.03.05-02.01.29:092][251]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B1383E2200), frame # 251
+[2021.03.05-02.01.29:092][251]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B1384ED440), frame # 251
+[2021.03.05-02.01.29:093][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.05-02.01.30:007][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.05-02.01.30:007][251]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.05-02.01.30:007][251]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B171A8A600), frame # 251
+[2021.03.05-02.01.30:007][251]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B1332D42C0), frame # 251
+[2021.03.05-02.01.30:019][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.05-02.01.30:049][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.05-02.01.30:050][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2021.03.05-02.01.30:050][251]LogFileHelpers: Loading map 'MainMenu' took 0.970
+[2021.03.05-02.24.07:884][283]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.03.05-02.24.07:884][283]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.03.05-02.44.33:009][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.03.05-02.44.50:425][631]LogMainFrame: Project does not require temp target
+[2021.03.05-02.44.50:457][631]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game.target
+[2021.03.05-02.44.50:933][631]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.03.05-02.44.51:170][637]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=D:/GitHub/GPhy/GPhy/GPhy.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=D:/GitHub/GPhy/GPhy/GPhy.uproject -cook -stage -archive -archivedirectory=D:/GitHub/GPhy/GPhy/ExecutableFiles -package -ue4exe="D:\Epic\Game Library\UE_4.25\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2021.03.05-02.44.52:993][722]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\GitHub\GPhy\GPhy\GPhy.uproject
+[2021.03.05-02.44.53:660][724]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.03.05-02.44.53:660][724]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\GitHub\GPhy\GPhy\GPhy.uproject
+[2021.03.05-02.44.53:660][724]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\Epic\Game Library\UE_4.25\Engine\Programs\AutomationTool\Saved\Cook-2021.03.05-10.44.53.txt
+[2021.03.05-02.44.53:660][724]UATHelper: Packaging (Windows (64-bit)): Running: D:\Epic\Game Library\UE_4.25\Engine\Binaries\Win64\UE4Editor-Cmd.exe D:\GitHub\GPhy\GPhy\GPhy.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="D:\Epic\Game Library\UE_4.25\Engine\Programs\AutomationTool\Saved\Cook-2021.03.05-10.44.53.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.03.05-02.44.55:659][730]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: GPhy
+[2021.03.05-02.45.02:993][752]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17059098624 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.05-02.45.03:661][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.05-02.45.03:661][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.05-02.45.03:661][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.05-02.45.03:661][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.05-02.45.03:661][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.05-02.45.03:661][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.05-02.45.03:662][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.05-02.45.03:993][755]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.05-02.45.03:993][755]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.05-02.45.03:993][755]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.05-02.45.03:993][755]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.03.05-02.45.03:993][755]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.05-02.45.04:661][757]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.05-02.45.05:661][760]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.05-02.45.05:662][760]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.05-02.45.05:662][760]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.05-02.45.07:326][765]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.05-02.45.07:327][765]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.05-02.45.08:329][768]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.05-02.45.08:329][768]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.03.05-02.45.08:329][768]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.03.05-02.45.09:995][773]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2021.03.05-02.45.09:995][773]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2021.03.05-02.45.09:995][773]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.03.05-02.45.09:995][773]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.069 seconds for platforms WindowsNoEditor
+[2021.03.05-02.55.09:470][169]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2021.03.05-02.55.09:488][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.03.05-02.55.09:491][169]Cmd: MAP LOAD FILE="../../../../../../GitHub/GPhy/GPhy/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.05-02.55.09:492][169]LightingResults: New page: Lighting Build
+[2021.03.05-02.55.09:492][169]LoadErrors: New page: Loading map: Level2.umap
+[2021.03.05-02.55.09:493][169]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.05-02.55.09:493][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-02.55.09:493][169]MapCheck: New page: Map Check
+[2021.03.05-02.55.09:493][169]LightingResults: New page: Lighting Build
+[2021.03.05-02.55.09:508][169]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B1332D42C0), frame # 49169
+[2021.03.05-02.55.09:508][169]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B171A8A600), frame # 49169
+[2021.03.05-02.55.09:510][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.03.05-02.55.11:468][169]LogPhysics: Warning: Scale for /Game/Levels/Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-02.55.11:474][169]LogPhysics: Warning: Scale for /Game/Levels/Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-02.55.11:760][169]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.05-02.55.11:760][169]LogAIModule: Creating AISystem for world Level2
+[2021.03.05-02.55.11:760][169]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B19DEFFA00), frame # 49169
+[2021.03.05-02.55.11:761][169]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B1989CA340), frame # 49169
+[2021.03.05-02.55.11:781][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.03.05-02.55.11:809][169]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.05-02.55.11:809][169]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2021.03.05-02.55.11:809][169]LogFileHelpers: Loading map 'Level2' took 2.319
+[2021.03.05-02.55.39:412][771]Cmd: DELETE
+[2021.03.05-02.55.39:412][771]Cmd: ACTOR DELETE
+[2021.03.05-02.55.39:622][771]LogEditorActor: Deleted Actor: LightSensor_C
+[2021.03.05-02.55.39:641][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:642][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:642][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:642][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:642][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:643][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:643][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:643][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:643][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:643][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:644][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:644][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:644][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:644][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:644][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:645][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:645][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:645][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:645][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:645][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:646][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:646][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:646][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:646][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:646][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:647][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:647][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:647][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:647][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:647][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:647][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:648][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:648][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:648][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.05-02.55.39:662][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.05-02.55.39:679][771]LogEditorActor: Deleted 35 Actors (0.155 secs)
+[2021.03.05-02.55.42:174][920]Cmd: DELETE
+[2021.03.05-02.55.42:174][920]Cmd: ACTOR DELETE
+[2021.03.05-02.55.42:190][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.05-02.55.42:192][920]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2021.03.05-02.55.48:913][313]LogEditorViewport: Clicking on Actor (LMB): LightSystem_C (LightSystem2)
+[2021.03.05-02.55.52:013][496]Cmd: DELETE
+[2021.03.05-02.55.52:014][496]Cmd: ACTOR DELETE
+[2021.03.05-02.55.52:023][496]LogEditorActor: Deleted Actor: LightSystem_C
+[2021.03.05-02.55.52:043][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.05-02.55.52:045][496]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.03.05-02.55.53:137][562]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.05-02.55.53:165][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.05-02.55.53:166][562]PIE: New page: PIE session: Level2 (Mar 5, 2021, 6:55:53 PM)
+[2021.03.05-02.55.53:168][562]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.05-02.55.53:169][562]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.05-02.55.53:169][562]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2021.03.05-02.55.53:183][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013339s)
+[2021.03.05-02.55.53:185][562]LogAIModule: Creating AISystem for world Level2
+[2021.03.05-02.55.53:185][562]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B19B29E000), frame # 51562
+[2021.03.05-02.55.53:185][562]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B13352E840), frame # 51562
+[2021.03.05-02.55.53:185][562]LogPlayLevel: PIE: World Init took: (0.002085s)
+[2021.03.05-02.55.53:185][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.015917s)
+[2021.03.05-02.55.53:201][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.03.05-02.55.53:202][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.05-02.55.53:202][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.05-02.55.53:202][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.05-02.55.53:202][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.05-02.55.53:202][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.05-02.55.53:202][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.05-02.55.53:203][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.05-02.55.53:203][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.05-02.55.53:203][562]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.05-02.55.53:203][562]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.05-02.55.53:215][562]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.05-02.55.53:215][562]LogAudioMixer: Display: 1: FrontRight
+[2021.03.05-02.55.53:263][562]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.05-02.55.53:263][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.05-02.55.53:263][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.05-02.55.53:263][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.05-02.55.53:264][562]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.05-02.55.53:284][562]LogInit: FAudioDevice initialized.
+[2021.03.05-02.55.53:301][562]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2021.03.05-02.55.53:306][562]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-02.55.53:307][562]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2021.03.05-10.55.53
+[2021.03.05-02.55.55:338][562]LogWorld: Bringing up level for play took: 2.035211
+[2021.03.05-02.55.55:338][562]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.03.05-02.55.55:343][562]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2021.03.05-02.55.55:345][562]PIE: Server logged in
+[2021.03.05-02.55.55:346][562]PIE: Play in editor total start time 2.187 seconds.
+[2021.03.05-02.55.59:308][789]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-02.56.23:054][185]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-02.56.32:093][691]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-02.57.06:485][624]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-02.57.42:777][573]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-02.58.10:385][ 66]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-02.58.46:825][998]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-02.59.14:846][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-02.59.14:846][520]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2021.03.05-02.59.14:847][520]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.03.05-02.59.14:848][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-02.59.14:858][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.05-02.59.14:862][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-02.59.14:919][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-02.59.14:932][520]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B19B29E000), frame # 62520
+[2021.03.05-02.59.14:932][520]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B13352E840), frame # 62520
+[2021.03.05-02.59.14:937][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.03.05-02.59.14:981][521]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.03.05-02.59.18:124][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MirrorBack5)
+[2021.03.05-02.59.27:973][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2021.03.05-02.59.28:719][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MirrorBack3)
+[2021.03.05-02.59.29:740][343]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.05-02.59.29:774][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.05-02.59.29:774][343]PIE: New page: PIE session: Level2 (Mar 5, 2021, 6:59:29 PM)
+[2021.03.05-02.59.29:809][343]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2021.03.05-02.59.29:826][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016976s)
+[2021.03.05-02.59.29:827][343]LogAIModule: Creating AISystem for world Level2
+[2021.03.05-02.59.29:827][343]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B19AB39000), frame # 63343
+[2021.03.05-02.59.29:827][343]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B19E0A4540), frame # 63343
+[2021.03.05-02.59.29:828][343]LogPlayLevel: PIE: World Init took: (0.001638s)
+[2021.03.05-02.59.29:828][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.018928s)
+[2021.03.05-02.59.29:845][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.03.05-02.59.29:847][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.05-02.59.29:847][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.05-02.59.29:847][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.05-02.59.29:848][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.05-02.59.29:848][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.05-02.59.29:848][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.05-02.59.29:848][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.05-02.59.29:848][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.05-02.59.29:848][343]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.05-02.59.29:848][343]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.05-02.59.29:861][343]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.05-02.59.29:861][343]LogAudioMixer: Display: 1: FrontRight
+[2021.03.05-02.59.29:918][343]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.05-02.59.29:919][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.05-02.59.29:919][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.05-02.59.29:919][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.05-02.59.29:920][343]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.05-02.59.29:947][343]LogInit: FAudioDevice initialized.
+[2021.03.05-02.59.29:961][343]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2021.03.05-02.59.29:966][343]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-02.59.29:967][343]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2021.03.05-10.59.29
+[2021.03.05-02.59.32:774][343]LogWorld: Bringing up level for play took: 2.811749
+[2021.03.05-02.59.32:774][343]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.03.05-02.59.32:777][343]PIE: Server logged in
+[2021.03.05-02.59.32:779][343]PIE: Play in editor total start time 3.014 seconds.
+[2021.03.05-02.59.35:011][465]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-02.59.47:271][148]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.00.06:837][178]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.00.15:474][623]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.00.22:736][  5]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.00.44:414][158]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.00.49:153][406]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-03.01.23:678][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-03.01.23:678][139]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2021.03.05-03.01.23:679][139]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.03.05-03.01.23:680][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-03.01.23:692][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.05-03.01.23:695][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-03.01.23:723][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-03.01.23:760][139]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B19E0A4540), frame # 69139
+[2021.03.05-03.01.23:760][139]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B19AB39000), frame # 69139
+[2021.03.05-03.01.23:762][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.03.05-03.01.23:816][140]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.05-03.01.26:414][273]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.05-03.01.28:909][389]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.05-03.01.30:393][457]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.05-03.01.41:973][922]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.05-03.01.42:012][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.05-03.01.42:012][922]PIE: New page: PIE session: Level2 (Mar 5, 2021, 7:01:42 PM)
+[2021.03.05-03.01.42:012][922]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2021.03.05-03.01.42:045][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032090s)
+[2021.03.05-03.01.42:046][922]LogAIModule: Creating AISystem for world Level2
+[2021.03.05-03.01.42:046][922]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B197F5C800), frame # 69922
+[2021.03.05-03.01.42:046][922]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B199FB82C0), frame # 69922
+[2021.03.05-03.01.42:047][922]LogPlayLevel: PIE: World Init took: (0.001810s)
+[2021.03.05-03.01.42:047][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.034213s)
+[2021.03.05-03.01.42:069][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.03.05-03.01.42:072][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.05-03.01.42:072][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.05-03.01.42:072][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.05-03.01.42:072][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.05-03.01.42:072][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.05-03.01.42:072][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.05-03.01.42:072][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.05-03.01.42:073][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.05-03.01.42:073][922]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.05-03.01.42:073][922]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.05-03.01.42:086][922]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.05-03.01.42:086][922]LogAudioMixer: Display: 1: FrontRight
+[2021.03.05-03.01.42:148][922]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.05-03.01.42:148][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.05-03.01.42:148][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.05-03.01.42:148][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.05-03.01.42:149][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.05-03.01.42:176][922]LogInit: FAudioDevice initialized.
+[2021.03.05-03.01.42:189][922]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2021.03.05-03.01.42:195][922]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.01.42:196][922]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2021.03.05-11.01.42
+[2021.03.05-03.01.44:626][922]LogWorld: Bringing up level for play took: 2.435771
+[2021.03.05-03.01.44:626][922]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.03.05-03.01.44:630][922]PIE: Server logged in
+[2021.03.05-03.01.44:631][922]PIE: Play in editor total start time 2.628 seconds.
+[2021.03.05-03.01.49:740][203]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-03.02.05:171][ 44]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.02.25:328][ 89]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.02.42:500][  3]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.02.46:764][219]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.03.19:930][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-03.03.19:930][897]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2021.03.05-03.03.19:931][897]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.03.05-03.03.19:932][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-03.03.19:949][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.05-03.03.19:963][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.05-03.03.20:028][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.05-03.03.20:093][897]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B199FB82C0), frame # 74897
+[2021.03.05-03.03.20:093][897]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B197F5C800), frame # 74897
+[2021.03.05-03.03.20:095][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.03.05-03.03.20:144][898]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.05-03.03.21:600][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MirrorBack5)
+[2021.03.05-03.03.42:257][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2021.03.05-03.03.42:621][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MirrorBack4)
+[2021.03.05-03.03.45:909][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MirrorBack3)
+[2021.03.05-03.03.46:470][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MirrorBack4)
+[2021.03.05-03.03.48:684][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MirrorBack3)
+[2021.03.05-03.03.50:133][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MirrorBack4)
+[2021.03.05-03.03.56:635][640]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.03.05-03.04.07:130][109]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.05-03.04.07:172][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.05-03.04.07:172][109]PIE: New page: PIE session: Level2 (Mar 5, 2021, 7:04:07 PM)
+[2021.03.05-03.04.07:172][109]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2021.03.05-03.04.07:194][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022106s)
+[2021.03.05-03.04.07:195][109]LogAIModule: Creating AISystem for world Level2
+[2021.03.05-03.04.07:196][109]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B198255000), frame # 77109
+[2021.03.05-03.04.07:196][109]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B19F9E8180), frame # 77109
+[2021.03.05-03.04.07:196][109]LogPlayLevel: PIE: World Init took: (0.001775s)
+[2021.03.05-03.04.07:196][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.024157s)
+[2021.03.05-03.04.07:220][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.03.05-03.04.07:223][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.05-03.04.07:224][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.05-03.04.07:224][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.05-03.04.07:224][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.05-03.04.07:224][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.05-03.04.07:224][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.05-03.04.07:224][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.05-03.04.07:224][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.05-03.04.07:224][109]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.05-03.04.07:225][109]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.05-03.04.07:236][109]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.05-03.04.07:236][109]LogAudioMixer: Display: 1: FrontRight
+[2021.03.05-03.04.07:297][109]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.05-03.04.07:298][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.05-03.04.07:298][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.05-03.04.07:298][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.05-03.04.07:299][109]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.05-03.04.07:329][109]LogInit: FAudioDevice initialized.
+[2021.03.05-03.04.07:344][109]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2021.03.05-03.04.07:352][109]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.04.07:353][109]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2021.03.05-11.04.07
+[2021.03.05-03.04.11:246][109]LogWorld: Bringing up level for play took: 3.900578
+[2021.03.05-03.04.11:247][109]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.05-03.04.11:250][109]PIE: Server logged in
+[2021.03.05-03.04.11:252][109]PIE: Play in editor total start time 4.089 seconds.
+[2021.03.05-03.04.18:428][392]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.04.25:778][749]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-03.04.45:030][665]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-03.05.00:705][415]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.05.11:772][923]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack3.StaticMeshComponent0 Cube
+[2021.03.05-03.05.25:035][552]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.05.53:961][903]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.06.09:879][648]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.06.29:388][580]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.06.33:065][756]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:090][757]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:105][758]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:129][759]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:149][760]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:170][761]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:189][762]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:212][763]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:233][764]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:255][765]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:271][766]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:295][767]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:314][768]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:334][769]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:353][770]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:372][771]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:397][772]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:420][773]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:437][774]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:463][775]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:483][776]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:503][777]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:521][778]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:544][779]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:571][780]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:590][781]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:613][782]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:633][783]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:654][784]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:670][785]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:694][786]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:715][787]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:737][788]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:763][789]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:785][790]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:807][791]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:832][792]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:856][793]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:879][794]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:903][795]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:928][796]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:954][797]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.33:974][798]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:000][799]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:024][800]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:045][801]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:070][802]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:088][803]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:107][804]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:129][805]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:147][806]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:167][807]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:185][808]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:206][809]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:228][810]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:247][811]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:267][812]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:286][813]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:305][814]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:327][815]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:469][822]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:492][823]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:512][824]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:531][825]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:550][826]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:569][827]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:587][828]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:611][829]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:630][830]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:648][831]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:686][833]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.34:721][835]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.37:984][  1]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:002][  2]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:023][  3]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:045][  4]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:063][  5]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:081][  6]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:102][  7]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:120][  8]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:137][  9]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:161][ 10]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:179][ 11]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:197][ 12]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:213][ 13]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:232][ 14]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:252][ 15]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:269][ 16]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:293][ 17]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:310][ 18]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:327][ 19]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:349][ 20]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:369][ 21]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:387][ 22]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:405][ 23]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:427][ 24]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:445][ 25]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:466][ 26]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:483][ 27]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:502][ 28]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:521][ 29]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:540][ 30]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:561][ 31]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:579][ 32]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:599][ 33]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:620][ 34]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:635][ 35]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:661][ 36]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:681][ 37]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:702][ 38]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:722][ 39]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.38:742][ 40]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.06.46:430][425]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.07.20:637][129]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.07.21:630][179]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.21:655][180]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.41:118][152]LogBlueprintUserMessages: [BP_LearningKit_PlayerCharacter_3] MirrorBack4.StaticMeshComponent0 Cube
+[2021.03.05-03.07.56:241][908]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:263][909]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:387][915]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:404][916]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:431][917]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:454][918]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:476][919]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:701][930]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:720][931]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:739][932]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:765][933]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:787][934]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:806][935]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:826][936]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:845][937]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:866][938]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:886][939]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:907][940]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:931][941]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:953][942]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:972][943]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.56:993][944]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:014][945]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:036][946]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:054][947]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:071][948]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:094][949]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:114][950]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:133][951]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:154][952]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:168][953]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:187][954]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:205][955]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:228][956]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:245][957]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:264][958]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:280][959]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:299][960]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:315][961]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:335][962]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:353][963]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:369][964]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:388][965]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:405][966]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:427][967]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:445][968]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:464][969]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:482][970]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:502][971]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:520][972]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:538][973]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:558][974]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:575][975]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:594][976]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:611][977]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:632][978]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:655][979]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:672][980]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:697][981]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:715][982]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:738][983]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:756][984]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:780][985]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:805][986]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:822][987]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:848][988]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:867][989]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:884][990]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:904][991]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:930][992]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:950][993]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:969][994]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.57:987][995]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:005][996]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:028][997]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:045][998]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:065][999]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:082][  0]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:104][  1]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:121][  2]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:147][  3]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:173][  4]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:198][  5]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:224][  6]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:247][  7]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:268][  8]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:287][  9]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:312][ 10]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:332][ 11]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:353][ 12]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:368][ 13]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:392][ 14]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:412][ 15]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:433][ 16]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:454][ 17]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:470][ 18]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:495][ 19]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:512][ 20]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:533][ 21]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:554][ 22]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:572][ 23]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:597][ 24]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:614][ 25]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:637][ 26]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:657][ 27]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:680][ 28]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:704][ 29]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:725][ 30]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:748][ 31]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:774][ 32]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:799][ 33]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:824][ 34]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:849][ 35]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:871][ 36]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:888][ 37]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:913][ 38]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:934][ 39]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:952][ 40]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:974][ 41]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.58:999][ 42]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:018][ 43]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:035][ 44]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:056][ 45]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:075][ 46]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:095][ 47]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:112][ 48]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:132][ 49]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:152][ 50]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:167][ 51]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:187][ 52]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:209][ 53]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:230][ 54]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:246][ 55]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:266][ 56]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:284][ 57]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:300][ 58]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:319][ 59]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:340][ 60]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:364][ 61]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:386][ 62]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:404][ 63]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:427][ 64]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:449][ 65]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:471][ 66]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:491][ 67]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:511][ 68]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:528][ 69]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:545][ 70]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:564][ 71]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:584][ 72]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:600][ 73]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:617][ 74]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:637][ 75]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:660][ 76]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:680][ 77]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:700][ 78]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:720][ 79]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:739][ 80]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:762][ 81]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:781][ 82]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:802][ 83]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:820][ 84]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:844][ 85]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:865][ 86]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:885][ 87]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:901][ 88]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:929][ 89]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:951][ 90]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:974][ 91]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.07.59:997][ 92]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:016][ 93]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:042][ 94]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:062][ 95]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:082][ 96]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:102][ 97]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:121][ 98]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:149][ 99]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:173][100]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:201][101]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:229][102]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:261][103]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:295][104]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:324][105]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:352][106]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:376][107]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:402][108]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:431][109]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:460][110]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:481][111]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:506][112]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:534][113]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:558][114]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:584][115]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:606][116]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:633][117]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:659][118]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:683][119]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:708][120]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:739][121]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:766][122]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:793][123]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.Portal_2.Capsule has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.688 Z=4.500
+[2021.03.05-03.08.00:824][124]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+WBP_Level_Complete_C.ExecuteUbergraph_WBP_Level_Complete
+WBP_Level_Complete_C.Construct
+Portal_C.ExecuteUbergraph_Portal
+Portal_C.ReceiveActorBeginOverlap
+
+[2021.03.05-03.08.03:433][124]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.609 s
+[2021.03.05-03.08.03:433][124]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.05-03.08.03:433][124]LogOutputDevice: Error: 
+[2021.03.05-03.08.03:433][124]LogOutputDevice: Error: Ensure condition failed: CursorWidget [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/GameViewportClient.cpp] [Line: 922]
+[2021.03.05-03.08.03:433][124]LogOutputDevice: Error: 
+[2021.03.05-03.08.03:433][124]LogOutputDevice: Error: Stack: 
+[2021.03.05-03.08.03:433][124]LogOutputDevice: Error: [Callstack] 0x00007ffa12c9d439 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:433][124]LogOutputDevice: Error: [Callstack] 0x00007ffa11a97a75 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa120f5e09 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa128c88f4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c460b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6b00ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d30e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6a3bba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d5362 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d4c24 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c460b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d4753 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa15b8f1fe UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa15bf61b1 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa15b2bb05 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa15c36ba0 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c460b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:434][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6b00ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d30e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6a3bba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d5362 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d4c24 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c460b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1c6d4753 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa113fafe5 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa12680b09 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa117d753a UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa118182da UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1183a9ed UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa11826798 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1179922e UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa117be273 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa11759346 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:435][124]LogOutputDevice: Error: [Callstack] 0x00007ffa117801c4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1249936f UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1249e3c7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1ef187d8 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1ef18aa3 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa1ef2f027 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa124ba402 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa124bf6ca UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa11c7d0bf UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa11c87957 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ff9e32baf57 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ff9e3b937e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ff697457800 UE4Editor.exe!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ff69746ba7c UE4Editor.exe!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ff69746bb5a UE4Editor.exe!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ff69747e31d UE4Editor.exe!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ff69748145a UE4Editor.exe!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa72ea7034 KERNEL32.DLL!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: [Callstack] 0x00007ffa73ebd241 ntdll.dll!UnknownFunction []
+[2021.03.05-03.08.03:436][124]LogOutputDevice: Error: 
